@@ -1,5 +1,5 @@
 # Dependency inversion Principle
 
-### Clients should not be forced to depend on methods they don't use.
+### Depend on abstractions, not on concretions.
 
 ![Screenshot](Dependency%20Inversion%20Principle.png)
